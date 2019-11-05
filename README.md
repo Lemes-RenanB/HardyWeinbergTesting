@@ -2,14 +2,14 @@
 
 ## What is HW_TEST software?
 
-   HW_TEST is a user friendly software to be used by scientists with almost none computer and mathematical skills and no programming skills. It can be used to test for deviations on the null hypothesis of "Hardy Weinberg Equilibrium" using genotype data from genetic markers with two to 12 alleles from samples with less than 1,000 individuals.\
-**NOTE:** Computer methods and mathematical approaches used in HW_TEST are fully described in the HW_TEST manual, also available here.
+   HW_TEST, a software that can be managed without any difficulties by users with a minimum of programming skills and statistical/mathematical background, is a program that tests the null hypothesis of Hardy-Weinberg proportions using genotype data from autosomal genetic markers with two to twelve alleles.\
+**NOTE:** All pertinent computer methods and mathematical/statistical details used in the program are described in the pdf user’s manual, available above.
 
 ## How to Install?
 
-  HW_TEST don't need to be installed and can be executed directly by clicking the HW_TEST.exe icon. All files can be downloaded by clicking "Clone or Download" > "Download ZIP".\
-  The program can also be obtained free of charge by email from the authors (lemes.rb@usp.br or otto@usp.br).\
-**NOTE:** When executing HW_TEST.exe, 10 files should be inside the same folder (HW_TEST.exe, HW_TEST.tkn, vbas31w.sll, vgui31w.sll, voflr31w.sll, vthk31w.dll, vtk1631w.dll, vtk3231w.dll, vvm31w.dll, and vvmt31w.dll). The absence of any file will prevent the program from running.
+  HW_TEST doesn't need to be installed and can be executed directly by clicking the HW_TEST.exe icon within the folder HW_TEST. All files necessary to run the program can be downloaded into the user´s computer by simply clicking "Clone or Download" > "Download ZIP".\
+  he program can also be obtained in zipped form and free of charge by email from the authors RBL or PAO (lemes.rb@usp.br or otto@usp.br).\
+**NOTE:** The program is executed by simply clicking the HW_TEST.exe file. The main program (HW_TEST.exe) and nine static and dynamic library files (HW_TEST.tkn, vbas31w.sll, vgui31w.sll, voflr31w.sll, vthk31w.dll, vtk1631w.dll, vtk3231w.dll, vvm31w.dll, and vvmt31w.dll) should be inside the folder HW_TEST. Even if the user uses another folder or location to house these files, it is important that they remain inside the same computer location or folder; the absence of any of these files will prevent the program from running.
 
 ## How to Cite?
 
@@ -17,7 +17,7 @@
 
 ## Credits
 
-  The original VISUAL BASIC (© Microsoft Inc.) version of HW_TEST was developed by Fernando Bautzer Santos and Paulo A. Otto (Bautzer Santos and Otto, 2005; Bautzer Santos, 2006) and subsequently rewritten and updated by Renan B. Lemes and Paulo A. Otto in Liberty BASIC v. 4.04 dialect (© Shoptalk Systems 1992-2010, www.libertybasic.com) that runs in Windows Microsoft Operational System.
+  The original VISUAL BASIC (© Microsoft Inc.) version of HW_TEST was developed by Fernando Bautzer Santos and Paulo A. Otto (Bautzer Santos and Otto, 2005; Bautzer Santos, 2006) and subsequently rewritten and updated by Paulo A. Otto and Renan B. Lemes in Liberty BASIC v. 4.04 (© Shoptalk Systems 1992-2010, www.libertybasic.com), a commercial programming language that runs in Windows Microsoft Operational System.
 
 ## Intellectual property
 
