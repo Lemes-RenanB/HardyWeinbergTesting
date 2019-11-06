@@ -2,7 +2,7 @@
 
 ## What is HW_TEST software?
 
-   HW_TEST, a software that can be managed without any difficulties by users with a minimum of programming skills and statistical/mathematical background, is a program that tests the null hypothesis of Hardy-Weinberg proportions using genotype data from autosomal genetic markers with two to twelve alleles.\
+   HW_TEST, a software developed for Microsoft Windows that can be managed without any difficulties by users with a minimum of programming skills and statistical/mathematical background, is a program that tests the null hypothesis of Hardy-Weinberg proportions using genotype data from autosomal genetic markers with two to twelve alleles.\
 **NOTE:** All pertinent computer methods and mathematical/statistical details used in the program are described in the pdf user’s manual, available above.
 
 ## How to Install?
