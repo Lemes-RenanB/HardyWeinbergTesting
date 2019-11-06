@@ -8,7 +8,7 @@
 ## How to Install?
 
   HW_TEST doesn't need to be installed and can be executed directly by clicking the HW_TEST.exe icon within the folder HW_TEST. All files necessary to run the program can be downloaded into the user´s computer by simply clicking "Clone or Download" > "Download ZIP".\
-  The program can also be obtained in zipped form and free of charge by email from the authors RBL or PAO (lemes.rb@usp.br or otto@usp.br).\
+  The program can also be obtained in zipped form and free of charge by email from the authors Renan B. Lemes or Paulo A. Otto (lemes.rb@usp.br or otto@usp.br).\
 **NOTE:** The program is executed by simply clicking the HW_TEST.exe file. The main program (HW_TEST.exe) and nine static and dynamic library files (HW_TEST.tkn, vbas31w.sll, vgui31w.sll, voflr31w.sll, vthk31w.dll, vtk1631w.dll, vtk3231w.dll, vvm31w.dll, and vvmt31w.dll) should be inside the folder HW_TEST. Even if the user uses another folder or location to house these files, it is important that they remain inside the same computer location or folder; the absence of any of these files will prevent the program from running.
 
 ## How to Cite?
@@ -17,7 +17,7 @@
 
 ## Credits
 
-  The original VISUAL BASIC (© Microsoft Inc.) version of HW_TEST was developed by Fernando Bautzer Santos and Paulo A. Otto (Bautzer Santos and Otto, 2005; Bautzer Santos, 2006) and subsequently rewritten and updated by Paulo A. Otto and Renan B. Lemes in Liberty BASIC v. 4.04 (© Shoptalk Systems 1992-2010, www.libertybasic.com), a commercial programming language that runs in Windows Microsoft Operational System.
+  The original VISUAL BASIC (© Microsoft Inc.) version of HW_TEST was developed by Fernando Bautzer Santos and PAO (Bautzer-Santos and Otto, 2005; Bautzer-Santos, 2006) and subsequently rewritten and updated by PAO and RBL in Liberty BASIC v. 4.04 (© Shoptalk Systems 1992-2010, www.libertybasic.com), a commercial programming language that runs in Windows Microsoft Operational System.
 
 ## Intellectual property
 
