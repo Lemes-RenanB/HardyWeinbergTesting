@@ -23,10 +23,6 @@
 
   The program is the intellectual property of its authors, and as such, any use of it or of the materials included in it must contain an explicit reference to their origin. Feedback from users is welcome and will be used to improve the program and to correct unforeseen flaws. As the program software is free, it comes however with no warranty.
 
-## Acknowledgements
-
-  The adaptation and updating of many parts of the VISUAL BASIC original script algorithms used in the calculations and their rewriting into the LYBERTY BASIC language took place when one of the authors (P. A. Otto) was a visiting professor (2011-2012) at the Department of Mathematics and Statistics of the University of Vermont in Burlington VT, United States with a short term fellowship grant from FAPESP. The fellowship (Grant # 2011/10877-1) and the corresponding leave of absence granted by the Genetics Department (IB USP) from the University of Sao Paulo (Brazil) to this author are here formally and deeply acknowledged.
-
 ## References
 
 - Bautzer-Santos FA and Otto PA. Pacote de programas computacionais visando a estimativa de parâmetros de interesse genético-populacional e o teste de hipóteses genéticas. LIo Congresso Nacional de Genética (Águas de Lindóia, SP). CDROM de Resumos do LIo Congresso Nacional de Genética, 2005 (gh738.pdf, p. 738).\
