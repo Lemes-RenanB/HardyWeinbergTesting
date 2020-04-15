@@ -13,7 +13,7 @@
 
 ## How to cite the program
 
-  The program was published in:\...
+  The program was published in:\
 Santos FAB, Lemes RB, Otto PA. HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing.\
 Genetics and Molecular Biology, 43, 2, e20190380 (2020)\
 DOI: https://doi.org/10.1590/1678-4685-GMB-2019-0380
