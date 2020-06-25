@@ -13,7 +13,7 @@
 
 ## How to cite the program?
 
-DOI: https://doi.org/10.1590/1678-4685-GMB-2019-0380\\
+DOI: https://doi.org/10.1590/1678-4685-GMB-2019-0380
 
 - **MLA**\
 Santos, Fernando Azenha Bautzer, Renan Barbosa Lemes, and Paulo Alberto Otto. "HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing." Genetics and Molecular Biology 43.2 (2020).
