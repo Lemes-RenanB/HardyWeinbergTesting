@@ -5,13 +5,13 @@
    HW_TEST, a software developed for Microsoft Windows that can be managed without any difficulties by users with a minimum of programming skills and statistical/mathematical background, is a program that tests the null hypothesis of Hardy-Weinberg proportions using genotype data from autosomal genetic markers with two to twelve alleles.\
 **NOTE:** All pertinent computer methods and mathematical/statistical details used in the program are described in the pdf user’s manual, available above.
 
-## How to download the program
+## How to download the program?
 
    All files necessary to run the program can be downloaded into the user´s computer by simply clicking the **Clone or Download** link and then the **Download ZIP** one.\
   The program can also be obtained in zipped form and free of charge by email from the authors Renan B. Lemes (lemes.rb@usp.br) or Paulo A. Otto (otto@usp.br).\
 **NOTE:** The unzipping of the downloaded "HardyWeinbergTesting-master.zip" file inside any location of the user's computer will result in the creation of a folder named "HardyWeinbergTesting-master" in the same location. This folder contains the user's pdf guide, the source code of the program and the folder HW_TEST. The program is executed by simply clicking the HW_TEST.exe executable file inside this folder HW_TEST. The main exe program, a tkn (tokenized) file and eight static and dynamic library files (HW_TEST.exe, HW_TEST.tkn, vbas31w.sll, vgui31w.sll, voflr31w.sll, vthk31w.dll, vtk1631w.dll, vtk3231w.dll, vvm31w.dll, and vvmt31w.dll) should be inside the folder HW_TEST. Even if another folder or location to house these files other than the folder HW_TEST is used, it is important that they remain inside the same computer location or folder; the absence of any of these files, that should always be kept physically together, will prevent the program from running. 
 
-## How to cite the program
+## How to cite the program?
 
 DOI: https://doi.org/10.1590/1678-4685-GMB-2019-0380\\
 
