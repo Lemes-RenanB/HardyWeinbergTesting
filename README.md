@@ -16,13 +16,13 @@
 DOI: https://doi.org/10.1590/1678-4685-GMB-2019-0380\\
 
 - MLA\
-Santos, Fernando Azenha Bautzer, Renan Barbosa Lemes, and Paulo Alberto Otto. "HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing." Genetics and Molecular Biology 43.2 (2020).\
+Santos, Fernando Azenha Bautzer, Renan Barbosa Lemes, and Paulo Alberto Otto. "HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing." Genetics and Molecular Biology 43.2 (2020).
 
 - NBR6023\
-SANTOS, Fernando Azenha Bautzer; LEMES, Renan Barbosa; OTTO, Paulo Alberto. HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing. Genetics and Molecular Biology, v. 43, n. 2, 2020.\
+SANTOS, Fernando Azenha Bautzer; LEMES, Renan Barbosa; OTTO, Paulo Alberto. HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing. Genetics and Molecular Biology, v. 43, n. 2, 2020.
 
 - APA\
-Santos, F. A. B., Lemes, R. B., & Otto, P. A. (2020). HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing. Genetics and Molecular Biology, 43(2).\
+Santos, F. A. B., Lemes, R. B., & Otto, P. A. (2020). HW_TEST, a program for comprehensive HARDY-WEINBERG equilibrium testing. Genetics and Molecular Biology, 43(2).
 
 - BibTex\
 @article{santos2020hw_test,\
