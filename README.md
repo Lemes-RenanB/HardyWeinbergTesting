@@ -48,3 +48,10 @@ Santos, F. A. B., Lemes, R. B., & Otto, P. A. (2020). HW_TEST, a program for com
 
 - Santos FAB and Otto PA. Pacote de programas computacionais visando a estimativa de parâmetros de interesse genético-populacional e o teste de hipóteses genéticas. 51th Congresso Nacional de Genética (Águas de Lindóia, SP). CDROM of Abstracts,  51th National Congress of Genetics, 2005 (gh738.pdf, p. 738).
 - Santos FAB. Desenvolvimento de um pacote de programas visando a estimativa de parâmetros e o teste de hipóteses em genética de populações (Development of a package of programs aiming at the estimation of parameters and hypothesis testing in population genetics), MSc thesis, 166 pp., University of Sao Paulo, 2006. Available as a pdf archive at: https://teses.usp.br/teses/disponiveis/41/41131/tde-02122006-121406/en.php
+
+
+## Updates and releases
+
+25-Jun-2021 - HW_TEST_v.1.1 - Correction of minor errors in the software and in the manual typos.
+
+This document last modified Thursday, 25-Jun-2021
