@@ -54,4 +54,4 @@ Santos, F. A. B., Lemes, R. B., & Otto, P. A. (2020). HW_TEST, a program for com
 
 25-Jun-2021 - HW_TEST_v.1.1 - Correction of minor errors in the software and in the manual typos.
 
-This document last modified Thursday, 25-Jun-2021
+This document last modified Friday, 25-Jun-2021
